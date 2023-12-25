@@ -1,0 +1,11 @@
+References for Code:
+https://cloud.google.com/dataproc/docs/tutorials/bigquery-connector-spark-example
+https://cloud.google.com/dataproc/docs/tutorials/gcs-connector-spark-tutorial
+https://help.tableau.com/current/pro/desktop/en-us/maps_options.htm
+https://help.tableau.com/current/pro/desktop/en-us/maps_howto_origin_destination.htm
+https://help.tableau.com/current/pro/desktop/en-us/parameters_create.htm
+https://help.tableau.com/current/pro/desktop/en-us/calculations_calculatedfields_lod.htm
+https://help.tableau.com/current/pro/desktop/en-us/dashboards_create.htm
+https://facebook.github.io/prophet/docs/quick_start.html
+https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+https://console.cloud.google.com/marketplace/product/city-of-new-york/nyc-tlc-trips
